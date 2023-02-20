@@ -12,7 +12,7 @@ while (a + r + 1 > pow (2, r))
 {
 r++;
 }
-cout << "No of redundant data bits to be added " << r << " : Total Bits(data+ redundant) :" << a +
+cout << "No of redundant data bits to be added " << r << " : Total Bts(data+ redundant) :" << a +
 r << endl;
 cout << "Enter the Data Bits One by One :" << endl;
 for (int i = 1; i <= a; ++i)
